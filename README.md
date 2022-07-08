@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivam-21feb
-- 👀 I’m interested in web development
+- 👀 I’m interested in front end web development
 - 🌱 I’m currently learning javascipt and it's data structure and algorithm
-- 💞️ I’m looking to collaborate on projects related to web development
+- 💞️ I’m looking to collaborate on projects related to front end web development
 - 📫 How to reach me- my linkedin id-linkedin.com/in/shivam-mishra-08994318b
 
 <!---
